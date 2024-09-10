@@ -1,13 +1,13 @@
-## Introduction
 ___
+## Introduction
 
 This is only a linking repository for a full stack personal portfolio project "Health Center".
 
 ![](./assets/1.png)
 
 
-## Architecture
 ___
+## Architecture
 
 ### Front end
 
@@ -22,8 +22,8 @@ ___
 - Docker
 - Azure
 
-## Repositories
 ___
+## Repositories
 
 ### Front end
 
