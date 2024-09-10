@@ -1,13 +1,13 @@
 ## Introduction
----
+___
 
 This is only a linking repository for a full stack personal portfolio project "Health Center".
 
-![](./assets/i.png)
+![](./assets/1.png)
 
 
 ## Architecture
----
+___
 
 ### Front end
 
@@ -23,13 +23,13 @@ This is only a linking repository for a full stack personal portfolio project "H
 - Azure
 
 ## Repositories
----
+___
 
 ### Front end
 
-[app-fe repo](https://github.com/microieva/app-fe)
+- [app-fe repo](https://github.com/microieva/app-fe)
 
 ### Back end
 
-[app-be repo](https://github.com/microieva/app-be)
+- [app-be repo](https://github.com/microieva/app-be)
 
