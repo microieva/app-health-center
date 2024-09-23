@@ -20,7 +20,6 @@ ___
 - GraphQL
 - SQL
 - Docker
-- Azure
 
 ___
 ## Repositories
