@@ -1,9 +1,9 @@
 ___
 ## Introduction
 
-This is only a linking repository for a full stack personal portfolio project "Health Center".
+This is a linking repository for a full-stack professional portfolio project "Health Center".
 
-![](./assets/1.png)
+![](./assets/home-page.png)
 
 
 ___
@@ -12,6 +12,7 @@ ___
 ### Front end
 
 - Angular (v17)
+- Angular Material
 
 ### Back end
 
