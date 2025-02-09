@@ -1,7 +1,7 @@
 ___
 ## Introduction
 
-This is a linking repository for a full-stack professional portfolio project "Health Center".
+This is a linking repository for a full-stack professional portfolio project "Health Center" with an AI assistant.
 
 ![](./assets/home-page.png)
 
@@ -21,7 +21,7 @@ ___
 - GraphQL
 - SQL
 - Docker
-- Azure
+- Azure (Web Static App, Container App, Function App)
 
 ___
 ## Repositories
