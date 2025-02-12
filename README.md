@@ -21,7 +21,7 @@ ___
 - GraphQL
 - SQL
 - Docker
-- Azure (Web Static App, Container App, Function App)
+- Azure (Web Static App, Container App, Function App, Azure OpenAI gpt-35-turbo model)
 
 ___
 ## Repositories
